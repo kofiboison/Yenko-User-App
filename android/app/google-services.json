@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "926484783176",
+    "firebase_url": "https://yenkodrive-10262-default-rtdb.firebaseio.com",
+    "project_id": "yenkodrive-10262",
+    "storage_bucket": "yenkodrive-10262.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926484783176:android:a9bb607fe7c05c50d2f87d",
+        "android_client_info": {
+          "package_name": "com.yenkodrive.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926484783176-2i0vq20r9nor20aagcedfoj31t2aigfi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yenkodrive.driver",
+            "certificate_hash": "447139ea1b40dca4f3b0d7000fe1100409c57fba"
+          }
+        },
+        {
+          "client_id": "926484783176-3uc8qa2njec5a9j317b4r7lahgr1o0oj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClPcg4wJkluxz3g8Q2Xdk_gf5ALdrTdvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926484783176-3uc8qa2njec5a9j317b4r7lahgr1o0oj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "926484783176-4npn29j76n8mndl86og382k05hi8kb12.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.yenkodrive.driver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926484783176:android:c67ebc84b277113ad2f87d",
+        "android_client_info": {
+          "package_name": "com.yenkodrive.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926484783176-ng94k8umbrbon13p8an8g26dbvolfcbg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yenkodrive.user",
+            "certificate_hash": "ebe2ca62147d3190242920a2171d0a0daa1017a7"
+          }
+        },
+        {
+          "client_id": "926484783176-3uc8qa2njec5a9j317b4r7lahgr1o0oj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClPcg4wJkluxz3g8Q2Xdk_gf5ALdrTdvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926484783176-3uc8qa2njec5a9j317b4r7lahgr1o0oj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "926484783176-4npn29j76n8mndl86og382k05hi8kb12.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.yenkodrive.driver"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
